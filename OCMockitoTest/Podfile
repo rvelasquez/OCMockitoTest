@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+
+pod 'TPKeyboardAvoiding', '~> 1.1'
+pod 'UIView+FrameAdditions'
+pod 'DejalActivityView' 
+pod 'AFNetworking', '~> 2.3.1'
+pod 'UIAlertView+Blocks'
+pod 'TDBadgedCell', '~> 2.5.2'
+pod 'FLKAutoLayout'
+pod 'FlurrySDK'
+pod 'Parse', '~> 1.2.18'
+pod 'TestFlightSDK'
+pod 'OCMockito'

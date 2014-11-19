@@ -1,0 +1,102 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (4.1.7)
+      i18n (~> 0.6, >= 0.6.9)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.1)
+      tzinfo (~> 1.1)
+    archive-zip (0.7.0)
+      io-like (~> 0.3.0)
+    artifactory (2.0.0)
+    aws-sdk (1.51.0)
+      json (~> 1.4)
+      nokogiri (>= 1.4.4)
+    builder (3.2.2)
+    claide (0.7.0)
+    cocoapods (0.35.0.rc2)
+      activesupport (>= 3.2.15)
+      claide (~> 0.7.0)
+      cocoapods-core (= 0.35.0.rc2)
+      cocoapods-downloader (~> 0.7.2)
+      cocoapods-plugins (~> 0.3.1)
+      cocoapods-trunk (~> 0.4.0)
+      cocoapods-try (~> 0.4.2)
+      colored (~> 1.2)
+      escape (~> 0.0.4)
+      molinillo (~> 0.1.1)
+      nap (~> 0.8)
+      open4 (~> 1.3)
+      xcodeproj (~> 0.20.1)
+    cocoapods-core (0.35.0.rc2)
+      activesupport (>= 3.2.15)
+      fuzzy_match (~> 2.0.4)
+      nap (~> 0.8.0)
+    cocoapods-downloader (0.7.2)
+    cocoapods-plugins (0.3.2)
+      nap
+    cocoapods-trunk (0.4.0)
+      nap (>= 0.8)
+      netrc (= 0.7.8)
+    cocoapods-try (0.4.2)
+    colored (1.2)
+    colorize (0.7.3)
+    escape (0.0.4)
+    fileutils (0.7)
+      rmagick (>= 2.13.1)
+    fuzzy_match (2.0.4)
+    git (1.2.8)
+    i18n (0.6.11)
+    io-like (0.3.0)
+    json (1.8.1)
+    logger (1.2.8)
+    mime-types (2.3)
+    mini_portile (0.6.0)
+    minitest (5.4.3)
+    mixlib-shellout (1.4.0)
+    molinillo (0.1.1)
+    multi_json (1.10.1)
+    nap (0.8.0)
+    netrc (0.7.8)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
+    open4 (1.3.4)
+    plist (3.1.0)
+    rake (10.3.2)
+    rest-client (1.7.2)
+      mime-types (>= 1.16, < 3.0)
+      netrc (~> 0.7)
+    rmagick (2.13.3)
+    semver (1.0.1)
+    thread_safe (0.3.4)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+    xcodeproj (0.20.2)
+      activesupport (>= 3)
+      colored (~> 1.2)
+    xcoder (0.1.18)
+      aws-sdk
+      builder
+      colorize
+      multi_json
+      nokogiri
+      plist
+      rest-client
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  archive-zip
+  artifactory
+  cocoapods (= 0.35.0.rc2)
+  fileutils
+  git
+  json
+  logger
+  mixlib-shellout
+  plist
+  rake
+  semver
+  xcoder

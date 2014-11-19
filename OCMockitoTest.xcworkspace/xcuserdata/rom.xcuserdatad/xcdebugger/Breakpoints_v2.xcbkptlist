@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/OCMockito.m"
+            timestampString = "437934084.38082"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "MKTGivenWithLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+            timestampString = "437934094.772868"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "-stub"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockitoCore stub]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+                  timestampString = "437941261.572223"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockitoCore stub]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+                  timestampString = "437941261.804133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+            timestampString = "437934125.61359"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-methodSignatureForSelector:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy methodSignatureForSelector:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.572887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy methodSignatureForSelector:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.806337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+            timestampString = "437934128.065515"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy forwardInvocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.573911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy forwardInvocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.806468"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+            timestampString = "437934135.018754"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "-initWithObject:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy initWithObject:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.574995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKT_TPDWeakProxy initWithObject:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/ThirdParty/TPDWeakProxy-1.1.0/TPDWeakProxy/MKT_TPDWeakProxy.m"
+                  timestampString = "437941261.811573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934199.526358"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "-willReturn:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturn:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.575542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturn:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.811739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934201.010923"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-willReturnStruct:objCType:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnStruct:objCType:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.576101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnStruct:objCType:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.811938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934203.138188"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "-willReturnBool:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnBool:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.576696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnBool:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.812125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934204.318537"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-willReturnChar:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnChar:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.577297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnChar:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.812304"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934206.388887"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-willReturnInt:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnInt:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.577876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnInt:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.812456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934207.588498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "-willReturnShort:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnShort:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.578452"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnShort:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.812593"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934209.139295"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "-willReturnLong:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnLong:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.579018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnLong:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.81275"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934210.791059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-willReturnLongLong:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnLongLong:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.579595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnLongLong:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.81291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934212.308507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-willReturnInteger:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnInteger:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.580251"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnInteger:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813075"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934213.325386"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-willReturnUnsignedChar:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedChar:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.580809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedChar:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934214.44345"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "-willReturnUnsignedInt:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedInt:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.581419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedInt:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934216.265914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "-willReturnUnsignedShort:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedShort:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.582012"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedShort:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934218.296349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "-willReturnUnsignedLong:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedLong:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.582562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedLong:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934219.393871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "-willReturnUnsignedLongLong:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedLongLong:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.583109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedLongLong:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.813837"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934222.099452"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "-willReturnUnsignedInteger:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedInteger:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.583645"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnUnsignedInteger:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.81399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934223.951903"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "-willReturnFloat:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnFloat:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.584171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnFloat:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.814144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934226.559907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-willReturnDouble:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnDouble:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.584704"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing willReturnDouble:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.814291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934227.990223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "-withMatcher:forArgument:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing withMatcher:forArgument:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.585191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing withMatcher:forArgument:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.814529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+            timestampString = "437934229.834018"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "-withMatcher:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing withMatcher:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.585786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTOngoingStubbing withMatcher:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTOngoingStubbing.m"
+                  timestampString = "437941261.814826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+            timestampString = "437934270.919018"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.586263"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.815374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+            timestampString = "437934280.818933"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.586775"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.815614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+            timestampString = "437934281.450772"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-forwardInvocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.587317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject forwardInvocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.815974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+            timestampString = "437934293.786797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-handlingVerifyOfInvocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject handlingVerifyOfInvocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.587827"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject handlingVerifyOfInvocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.816209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+            timestampString = "437934938.086085"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-stubAtLocation:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockitoCore stubAtLocation:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+                  timestampString = "437941261.588733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockitoCore stubAtLocation:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockitoCore.m"
+                  timestampString = "437941261.817306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+            timestampString = "437934949.439781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-pullOngoingStubbing"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress pullOngoingStubbing]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.589232"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress pullOngoingStubbing]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.817541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+            timestampString = "437934989.506759"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-prepareInvocationForStubbing:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject prepareInvocationForStubbing:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.589701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTBaseMockObject prepareInvocationForStubbing:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTBaseMockObject.m"
+                  timestampString = "437941261.817843"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+            timestampString = "437934997.841592"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "-reportOngoingStubbing:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress reportOngoingStubbing:]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.59018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress reportOngoingStubbing:]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.818172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+            timestampString = "437935072.689108"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-reset"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress reset]"
+                  moduleName = "OCMockitoTest"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.590671"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MKTMockingProgress reset]"
+                  moduleName = "OCMockitoTestTests"
+                  urlString = "file:///Users/rom/Desktop/OCMockitoTest/Pods/OCMockito/Source/OCMockito/MKTMockingProgress.m"
+                  timestampString = "437941261.81846"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
